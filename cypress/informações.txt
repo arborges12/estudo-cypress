@@ -1,0 +1,5 @@
+cypress-multi-reporters - configuração de mais de um relatorio ao mesmo tempo.
+mocha -  biblioteca de execução de testes.
+mochawesone - biblioteca resposavel pela geração dos arquivos .json usados no report final. Caso exista varios arquivos spec, irá ocorrer a geração de um arquivo json spec para cada arquivo
+mochawesone-merge - biblioteca resposavel para o mergi dos arquivos json gerados pelo mochawesone.
+mochawesone-report=generator - biblioteca que gera o relatorio em html usando os arquivos json.
